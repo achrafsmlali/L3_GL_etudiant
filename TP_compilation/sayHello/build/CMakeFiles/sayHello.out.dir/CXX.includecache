@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/etudiants/asmlali/GL/L3_GL_etudiant/TP_compilation/sayHello/module1.cpp
+module1.hpp
+/etudiants/asmlali/GL/L3_GL_etudiant/TP_compilation/sayHello/module1.hpp
+
+/etudiants/asmlali/GL/L3_GL_etudiant/TP_compilation/sayHello/module1.hpp
+string
+-
+
+/etudiants/asmlali/GL/L3_GL_etudiant/TP_compilation/sayHello/sayHello.cpp
+module1.hpp
+/etudiants/asmlali/GL/L3_GL_etudiant/TP_compilation/sayHello/module1.hpp
+iostream
+-
+

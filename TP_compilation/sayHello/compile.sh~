@@ -1,0 +1,4 @@
+#!/bin/sh
+
+g++ -std=c++11 module1.cpp sayHello.cpp -o sayHello.out -Wall -Wextra
+
