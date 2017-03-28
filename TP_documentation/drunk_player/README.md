@@ -25,6 +25,6 @@ Drunk_player est un système de lecture de vidéos qui a trop bu. Il lit les vid
 ## Utilisation 
   ```./drunk_player_gui.out ../data/```
 
-![GitHub Logo](/etudiants/asmlali/GL/L3_GL_etudiant/TP_documentation/drunk_player/drunk_player_gui.png)
+![](drunk_player_gui.png)
 
 
